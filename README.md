@@ -3,6 +3,7 @@
 18 year old programmer 
 I am an open source fanatic.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=SOURHEAD)
 
 ### Languages I use
 
