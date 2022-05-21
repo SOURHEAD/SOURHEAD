@@ -1,6 +1,6 @@
 # Sour-head
-👋 Hello I am Arnav Bhargava,\n
-18 year old programmer \n
+👋 Hello I am Arnav Bhargava,
+18 year old programmer 
 I am an open source fanatic.
 
 
