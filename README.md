@@ -2,12 +2,8 @@
 👋 Hello I am Arnav Bhargava,
 18 year old programmer 
 I am an open source fanatic.
-# Devansh Singh
 
-A 19 year old Python developer, currently learning about blockchain and backend development. I'm an open-source and cryptocurrency enthusiast, and have a keen interest in blockchain and API development. Also, I work as a freelancer and I was a part of the MLH Prep Fellowship 2021.
-
-
-![Devansh's Github Stats](https://github-readme-stats.vercel.app/api?username=Devansh3712&show_icons=true&theme=dracula)
+![Arnav's Github Stats](https://github-readme-stats.vercel.app/api?username=Sour-head&show_icons=true&theme=dracula)
 
 
 ### Languages I use
