@@ -1,9 +1,7 @@
 # Sour-head
-👋 Hello I am Arnav Bhargava,
-18 year old programmer 
+👋 Hello I am Arnav Bhargava,\n
+18 year old programmer \n
 I am an open source fanatic.
-
-![Arnav's Github Stats](https://github-readme-stats.vercel.app/api?username=Sour-head&show_icons=true&theme=dracula)
 
 
 ### Languages I use
