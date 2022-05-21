@@ -1,4 +1,4 @@
-# Sour-head
+# SOURHEAD/Arnav Bhargava
 👋 Hello I am Arnav Bhargava,
 18 year old programmer 
 I am an open source fanatic.
