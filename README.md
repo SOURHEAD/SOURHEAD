@@ -1,14 +1,7 @@
 # SOURHEAD/Arnav Bhargava
 👋 Hello I am Arnav Bhargava,
-19 year old programmer 
-I am an open source fanatic.
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=SOURHEAD)
-
-### Languages I use
-
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://camo.githubusercontent.com/4524c09f8c821218b3c602e3e5a222ce00c290c2f87e264b40f398a6b486bd91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030303030662e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
-
+20 year old programmer 
+Learning DEV-OPS
 
 ### Find me on
 
