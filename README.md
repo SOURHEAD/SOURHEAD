@@ -1,7 +1,10 @@
 # SOURHEAD/Arnav Bhargava
 👋 Hello I am Arnav Bhargava,
-20 year old programmer 
-Learning DEV-OPS
+21 year old programmer,
+Learning DEV-OPS,
+AWS Certfied Cloud Practitioner <https://cp.certmetrics.com/amazon/en/public/verify/credential/6d084f384573417792a2d588e4646042>
+
+Looking for job
 
 ### Find me on
 
